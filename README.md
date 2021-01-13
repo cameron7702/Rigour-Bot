@@ -1,5 +1,6 @@
 # Rigour-Bot
 Ongoing project – created in Python to help allocate useful information and tools for the Engineering Science 2T4 Discord Server
+
 Co-authored by: Cameron Smith. Link: https://github.com/cameron7702
 
 v0.1 2021-01-12:
