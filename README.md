@@ -1,4 +1,4 @@
-# Rigor-Bot
+# Rigour-Bot
 Ongoing project – created in Python to help allocate useful information and tools for the Engineering Science 2T4 Discord Server
 
 v0.1 2021-01-12:
